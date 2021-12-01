@@ -1,0 +1,245 @@
+vmess = zhuzhu12.com:22164, method=chacha20-ietf-poly1305, password=d6a85728-37ef-38bf-8c0d-801f0c5044ee, obfs=ws, obfs-host=zhuzhu12.com, obfs-uri=/zz, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30）
+vmess = zhuzhu12.com:12819, method=chacha20-ietf-poly1305, password=d6a85728-37ef-38bf-8c0d-801f0c5044ee, obfs=ws, obfs-host=zhuzhu12.com, obfs-uri=/zz, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 2
+trojan = azure-hk.qcppl.com:10007, password=391869cf-f21d-4b24-a6e6-862cac94bb15, over-tls=true, tls-host=azure-hk.qcppl.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=CYL-科技（2021.11.30） 3
+vmess = cm-jm.okvpn.xyz:20001, method=chacha20-ietf-poly1305, password=9ff08877-9269-4916-bc2b-2736a6f44326, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 4
+vmess = 4.zhuzhu12.com:80, method=chacha20-ietf-poly1305, password=d6a85728-37ef-38bf-8c0d-801f0c5044ee, obfs=ws, obfs-host=a.189.cn, obfs-uri=/zz, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 5
+trojan = azure-hk.qcppl.com:10008, password=391869cf-f21d-4b24-a6e6-862cac94bb15, over-tls=true, tls-host=azure-hk.qcppl.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=CYL-科技（2021.11.30） 6
+vmess = 112.33.32.136:10002, method=chacha20-ietf-poly1305, password=65cac56d-4155-43c8-bae0-f368cb21f771, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 7
+trojan = gg.piyun.team:45005, password=391869cf-f21d-4b24-a6e6-862cac94bb15, over-tls=true, tls-host=gg.piyun.team, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=CYL-科技（2021.11.30） 8
+vmess = zhuzhu12.com:13959, method=chacha20-ietf-poly1305, password=d6a85728-37ef-38bf-8c0d-801f0c5044ee, obfs=ws, obfs-host=zhuzhu12.com, obfs-uri=/zz, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 9
+vmess = cm-jm.okvpn.xyz:20049, method=chacha20-ietf-poly1305, password=9ff08877-9269-4916-bc2b-2736a6f44326, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 10
+vmess = zhuzhu12.com:13959, method=chacha20-ietf-poly1305, password=d6a85728-37ef-38bf-8c0d-801f0c5044ee, obfs=ws, obfs-host=zhuzhu12.com, obfs-uri=/zz, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 11
+vmess = zhuzhu12.com:12819, method=chacha20-ietf-poly1305, password=d6a85728-37ef-38bf-8c0d-801f0c5044ee, obfs=ws, obfs-host=zhuzhu12.com, obfs-uri=/zz, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 12
+vmess = zj.haojiahuo.club:30057, method=chacha20-ietf-poly1305, password=4a6ada0c-e453-3217-8210-8556f9c92494, obfs=ws, obfs-host=xuexi.cn, obfs-uri=/videos, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 13
+shadowsocks = 172.104.168.83:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 14
+shadowsocks = 172.104.168.83:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 15
+shadowsocks = 172.104.168.83:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 16
+shadowsocks = 172.104.168.83:8080, method=aes-256-gcm, password=KixLvKzwjekG00rm, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 17
+vmess = 139.162.51.223:51939, method=chacha20-ietf-poly1305, password=4db2a027-17fb-4d27-b8ca-93b548e487a2, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 18
+trojan = azure-hk.qcppl.com:10012, password=391869cf-f21d-4b24-a6e6-862cac94bb15, over-tls=true, tls-host=azure-hk.qcppl.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=CYL-科技（2021.11.30） 19
+vmess = 1023sg.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=1023sg.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 20
+vmess = 923my.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=923my.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 21
+shadowsocks = 77.243.191.178:8389, method=chacha20-ietf-poly1305, password=47GH3wQRw7V4Zhd35bFs, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 22
+shadowsocks = 172.104.168.83:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 23
+vmess = zj.haojiahuo.club:30077, method=chacha20-ietf-poly1305, password=4a6ada0c-e453-3217-8210-8556f9c92494, obfs=ws, obfs-host=xuexi.cn, obfs-uri=/videos, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 24
+vmess = 1030us.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=1030us.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 25
+vmess = 8.214.46.152:50885, method=chacha20-ietf-poly1305, password=d064d11b-477c-4c5d-a2d8-9fd599ef8e79, obfs=ws, obfs-host=8.214.46.152, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 26
+vmess = shai7ein.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=shai7ein.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 27
+shadowsocks = 5.253.204.194:8389, method=chacha20-ietf-poly1305, password=qLzS7DF9qRYxJTHfckhC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 28
+vmess = 43.155.75.170:80, method=chacha20-ietf-poly1305, password=76329684-c5d2-4cf7-fcf5-06ad79a6aab3, obfs=ws, obfs-host=www.microsoft.com, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 29
+vmess = 1030tw.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=1030tw.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 30
+vmess = dax6ujai.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=dax6ujai.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 31
+shadowsocks = 86.105.25.162:8389, method=chacha20-ietf-poly1305, password=gKDDFZyBmBH5Ru46xBAK, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 32
+shadowsocks = 89.238.177.234:8389, method=chacha20-ietf-poly1305, password=VPPqaR4qpLmNw37jaJg6, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 33
+shadowsocks = 172.105.244.165:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 34
+shadowsocks = 172.105.244.165:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 35
+shadowsocks = 217.138.197.138:8389, method=chacha20-ietf-poly1305, password=dsHq7JmRFhSkvxzCuMFy, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 36
+vmess = usa-lasvegas.lvuft.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=usa-lasvegas.lvuft.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 37
+vmess = italy-milan.mah3Hoet.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=italy-milan.mah3Hoet.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 38
+shadowsocks = 37.120.137.82:8389, method=chacha20-ietf-poly1305, password=EGTHtnGhcnggx5yBYSqS, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 39
+shadowsocks = 37.120.212.162:8389, method=chacha20-ietf-poly1305, password=2XtmwMEgsVJYKWF4VjkL, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 40
+shadowsocks = 223.25.246.4:8389, method=chacha20-ietf-poly1305, password=w4GUD28Bw9uCMdbc2pqA, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 41
+shadowsocks = 172.105.244.165:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 42
+vmess = 137.184.184.78:2052, method=chacha20-ietf-poly1305, password=5580bd79-ba49-3f67-a710-5b917bdac2d8, obfs=ws, obfs-host=137.184.184.78, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 43
+vmess = 715hk.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=715hk.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 44
+vmess = cm-jm.okvpn.xyz:20004, method=chacha20-ietf-poly1305, password=9ff08877-9269-4916-bc2b-2736a6f44326, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 45
+shadowsocks = 217.138.209.122:8389, method=chacha20-ietf-poly1305, password=CxgRTZRE5urVfbbnGSyr, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 46
+shadowsocks = 172.105.244.165:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 47
+shadowsocks = 84.17.37.55:8389, method=chacha20-ietf-poly1305, password=tjwRqQvteAjt3xFmbZTA, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 48
+vmess = usa-sanfrancisco.lvuft.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=usa-sanfrancisco.lvuft.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 49
+shadowsocks = 45.83.91.66:8389, method=chacha20-ietf-poly1305, password=fAmKHf3Dft78ZyzL9kYF, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 50
+vmess = 192.3.127.109:8888, method=chacha20-ietf-poly1305, password=d064d11b-477c-4c5d-a2d8-9fd599ef8e79, obfs=ws, obfs-host=192.3.127.109, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 51
+vmess = 173.230.145.10:11019, method=chacha20-ietf-poly1305, password=89464027-d5d5-4660-ecc8-8be6d80b35d9, obfs=ws, obfs-host=https://www.freebaipiao.tk, obfs-uri=/aifxproxy, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 52
+vmess = 137.184.184.83:2053, method=chacha20-ietf-poly1305, password=5580bd79-ba49-3f67-a710-5b917bdac2d8, obfs=ws, obfs-host=137.184.184.83, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 53
+vmess = kr3.futi.online:2053, method=chacha20-ietf-poly1305, password=fec5fd62-56e7-431a-99b3-c1f76c5cbe8d, tls13=false, obfs=wss, obfs-host=kr3.futi.online, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 54
+shadowsocks = 172.105.244.165:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 55
+vmess = zj.haojiahuo.club:30052, method=chacha20-ietf-poly1305, password=4a6ada0c-e453-3217-8210-8556f9c92494, obfs=ws, obfs-host=xuexi.cn, obfs-uri=/videos, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 56
+shadowsocks = 172.105.244.165:8080, method=aes-256-gcm, password=KixLvKzwjekG00rm, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 57
+shadowsocks = 172.105.244.165:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 58
+shadowsocks = 172.252.64.45:18336, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 59
+shadowsocks = 37.120.194.82:8389, method=chacha20-ietf-poly1305, password=2V7N5kGUghaLxF4aUqTw, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 60
+vmess = switzerland-zurich.mah3Hoet.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=switzerland-zurich.mah3Hoet.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 61
+vmess = 112.33.32.136:10003, method=chacha20-ietf-poly1305, password=65cac56d-4155-43c8-bae0-f368cb21f771, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 62
+vmess = usa-lasvegas.lvuft.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=usa-lasvegas.lvuft.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 63
+vmess = usa-dallas.lvuft.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=usa-dallas.lvuft.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 64
+shadowsocks = 84.247.50.10:8389, method=chacha20-ietf-poly1305, password=AsLgDbA45KTMXumtzWhf, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 65
+vmess = 161.81.195.100:443, method=chacha20-ietf-poly1305, password=65cac56d-4155-43c8-bae0-f368cb21f771, tls13=false, obfs=wss, obfs-host=cmhk04.xc188.net, obfs-uri=/clientarea, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 66
+shadowsocks = 172.105.244.165:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 67
+shadowsocks = 188.241.179.2:8389, method=chacha20-ietf-poly1305, password=2SKtWLpv3tWyS97wqrxC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 68
+vmess = cu-cs.okvpn.xyz:30013, method=chacha20-ietf-poly1305, password=9ff08877-9269-4916-bc2b-2736a6f44326, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 69
+shadowsocks = 37.120.136.234:8389, method=chacha20-ietf-poly1305, password=Xd2xnHT8tYkVt5BDk92b, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 70
+shadowsocks = 95.142.161.130:443, method=chacha20-ietf-poly1305, password=uDlqozPwCk4A, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 71
+vmess = 137.184.184.78:2052, method=chacha20-ietf-poly1305, password=5580bd79-ba49-3f67-a710-5b917bdac2d8, obfs=ws, obfs-host=137.184.184.78, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 72
+shadowsocks = 172.99.190.87:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 73
+vmess = 930tg.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=930tg.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 74
+shadowsocks = 86.106.136.98:8389, method=chacha20-ietf-poly1305, password=h6WG7sxsLTBGn7uyvMG8, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 75
+vmess = uk-manchester.eiw2eemo.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=uk-manchester.eiw2eemo.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 76
+vmess = uk-manchester.eiw2eemo.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=uk-manchester.eiw2eemo.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 77
+vmess = amu1ahfi.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=amu1ahfi.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 78
+shadowsocks = 70.32.0.208:8389, method=chacha20-ietf-poly1305, password=q4apPAjyY9knqKS4e9xZ, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 79
+shadowsocks = 172.105.244.165:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 80
+vmess = germany-dusseldorf.mah3Hoet.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=germany-dusseldorf.mah3Hoet.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 81
+vmess = amu1ahfi.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=amu1ahfi.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 82
+shadowsocks = 45.133.181.58:8389, method=chacha20-ietf-poly1305, password=qzj5NqakK4YvYYU87eFF, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 83
+shadowsocks = 172.105.244.165:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 84
+vmess = 1031kr.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=1031kr.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 85
+vmess = 107.148.200.123:30033, method=chacha20-ietf-poly1305, password=e85a81e0-12a0-11ec-bc90-00163c1b189e, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 86
+shadowsocks = 38.91.100.207:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 87
+shadowsocks = 188.214.106.98:8389, method=chacha20-ietf-poly1305, password=cNbqVVyUfbJFZ6S8EgRH, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 88
+shadowsocks = 81.90.189.18:808, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 89
+shadowsocks = 188.214.125.106:8389, method=chacha20-ietf-poly1305, password=Zq4srheW4eeqMfGeWMTG, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 90
+vmess = iesei1ei.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=iesei1ei.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 91
+vmess = 1116yn.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=1116yn.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 92
+vmess = 173.82.192.61:28482, method=chacha20-ietf-poly1305, password=128356e8-405a-4879-e820-83876aed6247, obfs=ws, obfs-host=173.82.192.61, obfs-uri=/114514, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 93
+shadowsocks = 81.90.189.18:809, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 94
+shadowsocks = 81.90.189.18:812, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 95
+vmess = 64.32.13.3:443, method=chacha20-ietf-poly1305, password=4dc574eb-94e8-439e-aad6-4d74df1a38c5, tls13=false, obfs=wss, obfs-host=www.12001759.xyz, obfs-uri=/path/323127100515, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 96
+vmess = 915ru1.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=915ru1.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 97
+shadowsocks = 81.90.189.18:807, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 98
+vmess = germany-dusseldorf.mah3Hoet.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=germany-dusseldorf.mah3Hoet.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 99
+shadowsocks = 38.91.100.207:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 100
+shadowsocks = 37.19.218.197:8389, method=chacha20-ietf-poly1305, password=Mx6DztQqZb7j34FdWjER, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 101
+shadowsocks = 38.91.100.207:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 102
+vmess = global-transit-01-hn.pucdn.me:60001, method=chacha20-ietf-poly1305, password=0e4a0f2f-9cc9-3b11-9e6a-4392c4fcfc6c, obfs=ws, obfs-host=global-transit-01-hn.pucdn.me, obfs-uri=/vvv, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 103
+shadowsocks = 81.90.189.18:800, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 104
+shadowsocks = 81.90.189.18:801, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 105
+shadowsocks = 81.90.189.57:810, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 106
+shadowsocks = 38.91.100.199:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 107
+shadowsocks = 81.90.188.137:812, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 108
+vmess = jp-tokyo-node2.ycgyg.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=jp-tokyo-node2.ycgyg.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 109
+vmess = 107.148.200.229:10022, method=chacha20-ietf-poly1305, password=6e6ce89a-42d5-11ec-ac9d-00163c0ad178, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 110
+shadowsocks = 38.91.100.207:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 111
+vmess = cu-cs.okvpn.xyz:30014, method=chacha20-ietf-poly1305, password=9ff08877-9269-4916-bc2b-2736a6f44326, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 112
+vmess = armsan.yz-sh.pp.ua:46655, method=chacha20-ietf-poly1305, password=938d9a74-d3b0-454f-94c0-cd526cba2d3e, obfs=ws, obfs-host=armsan.yz-sh.pp.ua, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 113
+shadowsocks = 81.90.189.18:802, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 114
+shadowsocks = 81.90.188.137:802, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 115
+shadowsocks = 188.214.152.194:8389, method=chacha20-ietf-poly1305, password=t8BFcaM3GSCw5FHbph27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 116
+shadowsocks = 81.90.189.57:804, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 117
+shadowsocks = 81.90.188.137:801, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 118
+shadowsocks = 81.90.189.57:808, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 119
+shadowsocks = 81.90.189.18:806, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 120
+trojan = hg.piyun.team:45248, password=391869cf-f21d-4b24-a6e6-862cac94bb15, over-tls=true, tls-host=hg.piyun.team, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=CYL-科技（2021.11.30） 121
+vmess = jp-tokyo-node2.ycgyg.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=jp-tokyo-node2.ycgyg.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 122
+shadowsocks = 172.104.168.83:3306, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 123
+shadowsocks = 81.90.189.18:805, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 124
+shadowsocks = 38.68.135.93:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 125
+shadowsocks = 81.90.188.137:809, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 126
+shadowsocks = 38.91.100.207:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 127
+shadowsocks = 134.195.196.52:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 128
+shadowsocks = 81.90.188.137:808, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 129
+shadowsocks = 81.90.188.137:805, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 130
+shadowsocks = 134.195.196.52:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 131
+vmess = 152.70.240.201:43645, method=chacha20-ietf-poly1305, password=7a44d386-e7eb-41d4-92ce-ffbfb32b7957, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 132
+shadowsocks = 103.108.94.226:8389, method=chacha20-ietf-poly1305, password=bFfLrvbG3GjjNSxKBWt5, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 133
+vmess = kr2.futi.online:2053, method=chacha20-ietf-poly1305, password=fec5fd62-56e7-431a-99b3-c1f76c5cbe8d, tls13=false, obfs=wss, obfs-host=kr2.futi.online, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 134
+shadowsocks = 81.90.189.18:811, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 135
+shadowsocks = 81.90.189.18:810, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 136
+shadowsocks = 81.90.188.137:803, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 137
+vmess = 173.82.192.61:28482, method=chacha20-ietf-poly1305, password=128356e8-405a-4879-e820-83876aed6247, obfs=ws, obfs-host=173.82.192.61, obfs-uri=/114514, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 138
+shadowsocks = 38.91.100.207:8080, method=aes-256-gcm, password=KixLvKzwjekG00rm, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 139
+shadowsocks = 81.90.188.137:810, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 140
+shadowsocks = 38.91.100.27:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 141
+vmess = 1116hk.fans8.xyz:80, method=chacha20-ietf-poly1305, password=7ea3f9bb-2082-3d43-b825-6bf7a052314a, obfs=ws, obfs-host=1116hk.fans8.xyz, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 142
+vmess = tokyo.besnow.xyz:443, method=chacha20-ietf-poly1305, password=ad3a1679-3550-452d-b3c5-94d827eff6ea, tls13=false, obfs=wss, obfs-host=tokyo.besnow.xyz, obfs-uri=/cctv13/hd.m3u8, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 143
+shadowsocks = 185.128.26.130:8389, method=chacha20-ietf-poly1305, password=GU3kqh2ZSkzFkRBp4hxy, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 144
+shadowsocks = 81.90.188.137:800, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 145
+shadowsocks = 81.90.189.57:811, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 146
+vmess = 173.82.192.61:28482, method=chacha20-ietf-poly1305, password=128356e8-405a-4879-e820-83876aed6247, obfs=ws, obfs-host=173.82.192.61, obfs-uri=/114514, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 147
+vmess = cmhk04.xc188.net:443, method=chacha20-ietf-poly1305, password=65cac56d-4155-43c8-bae0-f368cb21f771, tls13=false, obfs=wss, obfs-host=cmhk04.xc188.net, obfs-uri=/clientarea, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 148
+shadowsocks = 134.195.196.52:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 149
+vmess = usa-buffalo.lvuft.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=usa-buffalo.lvuft.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 150
+shadowsocks = 38.91.101.11:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 151
+shadowsocks = 134.195.196.52:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 152
+shadowsocks = 172.252.64.51:18334, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 153
+vmess = 107.189.12.75:80, method=chacha20-ietf-poly1305, password=261aeb5f-b6f7-359c-a321-9794bf344e12, obfs=ws, obfs-host=107.189.12.75, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 154
+shadowsocks = 38.91.101.11:3306, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 155
+shadowsocks = 38.121.43.71:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 156
+shadowsocks = 38.91.100.27:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 157
+shadowsocks = 172.105.244.165:3306, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 158
+shadowsocks = 142.202.48.7:3306, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 159
+shadowsocks = 38.91.100.27:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 160
+shadowsocks = 38.91.100.27:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 161
+shadowsocks = 38.121.43.71:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 162
+shadowsocks = 134.195.196.52:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 163
+shadowsocks = 38.91.100.27:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 164
+shadowsocks = 38.91.100.207:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 165
+vmess = ahdaeph8.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=ahdaeph8.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 166
+vmess = jpaz3.biteb.club:10020, method=chacha20-ietf-poly1305, password=669b05c8-d5a5-3813-bf53-9c4c252e1ef7, obfs=ws, obfs-host=jpaz3.biteb.club, obfs-uri=index, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 167
+shadowsocks = 134.195.196.52:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 168
+shadowsocks = 38.91.100.207:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 169
+trojan = gg.piyun.team:45045, password=391869cf-f21d-4b24-a6e6-862cac94bb15, over-tls=true, tls-host=gg.piyun.team, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=CYL-科技（2021.11.30） 170
+shadowsocks = 38.121.43.71:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 171
+shadowsocks = 38.91.100.27:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 172
+shadowsocks = 38.91.100.27:3306, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 173
+shadowsocks = 38.91.100.27:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 174
+shadowsocks = 142.202.48.99:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 175
+vmess = 107.189.12.75:80, method=chacha20-ietf-poly1305, password=261aeb5f-b6f7-359c-a321-9794bf344e12, obfs=ws, obfs-host=107.189.12.75, obfs-uri=/v2ray, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 176
+shadowsocks = 142.202.48.99:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 177
+shadowsocks = 134.195.196.52:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 178
+vmess = cm-jm.okvpn.xyz:20005, method=chacha20-ietf-poly1305, password=9ff08877-9269-4916-bc2b-2736a6f44326, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 179
+vmess = 172.104.98.216:80, method=chacha20-ietf-poly1305, password=e5af0cad-295c-37b2-b601-f35d13f6b1bb, obfs=ws, obfs-host=172.104.98.216, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 180
+shadowsocks = 38.91.101.11:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 181
+shadowsocks = 142.202.48.99:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 182
+shadowsocks = 134.195.196.52:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 183
+shadowsocks = 23.106.33.152:18332, method=chacha20-ietf-poly1305, password=S3YqACC58uajapxRy7S3D63xcXOeFnl2w9NZezAKDgSYD0RZBFTy3pI8ElCaO4, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 184
+shadowsocks = 5.181.234.254:812, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 185
+shadowsocks = 142.202.48.52:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 186
+shadowsocks = 38.91.100.27:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 187
+shadowsocks = 38.68.135.93:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 188
+vmess = 198.200.51.34:10911, method=chacha20-ietf-poly1305, password=53e483d4-1ea9-11ec-ad60-00163cc87418, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 189
+vmess = ex.oracleusa.ml:443, method=chacha20-ietf-poly1305, password=29d8e9c2-c88f-4a86-a615-2a76dcc2458b, tls13=false, obfs=wss, obfs-host=ex.oracleusa.ml, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 190
+shadowsocks = 134.195.196.52:3306, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 191
+shadowsocks = 93.186.201.124:812, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 192
+shadowsocks = 142.202.48.52:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 193
+shadowsocks = 45.141.154.234:8389, method=chacha20-ietf-poly1305, password=sHWJUzzQUXtQSR2P6HNJ, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 194
+shadowsocks = 38.121.43.71:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 195
+shadowsocks = 38.121.43.71:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 196
+shadowsocks = 38.91.100.27:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 197
+shadowsocks = 142.202.48.78:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 198
+shadowsocks = 142.202.48.108:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 199
+shadowsocks = 38.91.100.27:8080, method=aes-256-gcm, password=KixLvKzwjekG00rm, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 200
+vmess = ru.52jjyun.top:80, method=chacha20-ietf-poly1305, password=613eee52-bfd9-47d1-a47d-37bdf1367aab, obfs=ws, obfs-host=ru.52jjyun.top, obfs-uri=/jjyun, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 201
+vmess = cu-cs.okvpn.xyz:30016, method=chacha20-ietf-poly1305, password=9ff08877-9269-4916-bc2b-2736a6f44326, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 202
+shadowsocks = 217.197.161.109:801, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 203
+shadowsocks = 217.197.161.109:808, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 204
+shadowsocks = 167.88.62.34:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 205
+shadowsocks = 38.121.43.71:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 206
+shadowsocks = 142.202.48.78:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 207
+shadowsocks = 142.202.48.83:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 208
+vmess = 142.4.123.135:38899, method=chacha20-ietf-poly1305, password=73e7a742-115c-11ec-bf5c-00163cdab24a, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 209
+shadowsocks = 217.138.222.138:8389, method=chacha20-ietf-poly1305, password=AsLgDbA45KTMXumtzWhf, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 210
+shadowsocks = 167.88.63.89:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 211
+shadowsocks = 217.197.161.109:805, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 212
+vmess = zj.haojiahuo.club:30044, method=chacha20-ietf-poly1305, password=4a6ada0c-e453-3217-8210-8556f9c92494, obfs=ws, obfs-host=xuexi.cn, obfs-uri=/videos, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 213
+vmess = 107.148.200.229:10022, method=chacha20-ietf-poly1305, password=6e6ce89a-42d5-11ec-ac9d-00163c0ad178, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 214
+shadowsocks = 38.75.137.71:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 215
+shadowsocks = 167.88.63.89:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 216
+shadowsocks = 38.91.100.27:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 217
+vmess = ru.52jjyun.top:80, method=chacha20-ietf-poly1305, password=613eee52-bfd9-47d1-a47d-37bdf1367aab, obfs=ws, obfs-host=ru.52jjyun.top, obfs-uri=/jjyun, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 218
+shadowsocks = 167.88.63.74:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 219
+vmess = 104.26.9.74:443, method=chacha20-ietf-poly1305, password=f6c1babe-416e-47d1-8726-049678e25c7a, tls13=false, obfs=wss, obfs-host=us2.v2rayserv.com, obfs-uri=/sshocean, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 220
+shadowsocks = 142.202.48.105:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 221
+shadowsocks = 38.68.135.93:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 222
+shadowsocks = 134.195.196.12:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 223
+shadowsocks = 217.197.161.109:812, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 224
+shadowsocks = 217.197.161.109:810, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 225
+shadowsocks = 167.88.62.68:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 226
+vmess = 192.74.254.167:500, method=chacha20-ietf-poly1305, password=764e808a-115e-11ec-a88f-00163c9f4934, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 227
+shadowsocks = 38.75.136.102:443, method=aes-256-gcm, password=pKEW8JPByTVTLtM, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 228
+shadowsocks = 45.141.152.178:8389, method=chacha20-ietf-poly1305, password=FTvsfXCvXLPFEMKNSADr, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 229
+shadowsocks = 38.68.135.19:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 230
+shadowsocks = 145.239.1.137:8080, method=aes-256-gcm, password=KixLvKzwjekG00rm, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 231
+shadowsocks = 217.197.161.109:802, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 232
+shadowsocks = 38.121.43.71:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 233
+shadowsocks = 38.91.101.11:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 234
+trojan = t6.ssrsub.com:21033, password=1ed0dd9b-7c66-4738-be47-8e543b2126e4, over-tls=true, tls-host=t6.ssrsub.com, tls13=false, fast-open=false, udp-relay=true, tls-verification=false, tag=CYL-科技（2021.11.30） 235
+vmess = viibah6u.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=viibah6u.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 236
+shadowsocks = 217.197.161.109:800, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 237
+vmess = viibah6u.com:443, method=chacha20-ietf-poly1305, password=aba50dd4-5484-3b05-b14a-4661caf862d5, tls13=false, obfs=wss, obfs-host=viibah6u.com, obfs-uri=/ws, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 238
+shadowsocks = 167.88.62.68:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 239
+shadowsocks = 167.88.62.68:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 240
+shadowsocks = 142.202.48.108:3389, method=aes-256-gcm, password=Y6R9pAtvxxzmGC, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 241
+shadowsocks = 38.68.134.23:5003, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 242
+shadowsocks = 142.202.48.108:5004, method=aes-256-gcm, password=g5MeD6Ft3CWlJId, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 243
+shadowsocks = 167.88.62.104:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 244
+shadowsocks = 70.39.71.2:8389, method=chacha20-ietf-poly1305, password=XkH8z99cQguQ8ywK5jhV, fast-open=false, udp-relay=true, tag=CYL-科技（2021.11.30） 245
