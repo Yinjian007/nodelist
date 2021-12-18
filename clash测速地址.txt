@@ -1,0 +1,2 @@
+设置 — 代理 — 延迟测试网址替换：
+http://www.google.com/generate_204
