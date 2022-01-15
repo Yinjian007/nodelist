@@ -5,87 +5,91 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: Relay_🇨🇳CN-🇹🇼TW_371, server: shcu01.iplc188.com, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: 美国(欢迎订阅Youtube破解资源君), server: 142.202.48.43, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: (欢迎订阅youtube：钱科技)1212_23, server: 70.39.67.130, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: amu1ahfi.com}, udp: true}
-  - {name: 美国(欢迎订阅Youtube破解资源君) 2, server: 142.202.48.43, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: ��������_FR_(欢迎订阅youtube：钱科技)1213_51, server: 62.210.209.50, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
-  - {name: PH_820, server: 188.214.125.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Zq4srheW4eeqMfGeWMTG, udp: true}
-  - {name: Relay_🇺🇸US-🇺🇸US_2000, server: usa-dallas.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}, udp: true}
-  - {name: ��������_US_(欢迎订阅youtube：钱科技)1213_58, server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
-  - {name: US_1597, server: 38.143.66.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: ��������_US_(欢迎订阅youtube：钱科技)1213_66, server: 66.55.92.101, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
-  - {name: (欢迎订阅youtube：钱科技)1212_9, server: 172.99.190.87, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: ��������_US_(欢迎订阅youtube：钱科技)1213_62, server: 172.99.190.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
   - {name: Relay_🇮🇩ID-🇮🇩ID_598, server: 45.133.181.58, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qzj5NqakK4YvYYU87eFF, udp: true}
-  - {name: 欧洲(欢迎订阅Youtube破解资源君), server: 37.120.194.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2V7N5kGUghaLxF4aUqTw, udp: true}
-  - {name: 美国(欢迎订阅Youtube破解资源君) 3, server: usa-dallas.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}, udp: true}
+  - {name: PH_820, server: 188.214.125.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Zq4srheW4eeqMfGeWMTG, udp: true}
+  - {name: 美国(欢迎订阅Youtube破解资源君), server: 96.47.224.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: YDNYJcNdH5xuLrhyr7Fj, udp: true}
+  - {name: (欢迎订阅youtube：钱科技)1212_23, server: 70.39.67.130, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: amu1ahfi.com}, udp: true}
+  - {name: ��������_US_(欢迎订阅youtube：钱科技)1213_62, server: 172.99.190.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: 美国(欢迎订阅Youtube破解资源君) 2, server: 107.182.234.233, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV, udp: true}
+  - {name: 美国(欢迎订阅Youtube破解资源君) 3, server: 142.202.48.43, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: 美国(欢迎订阅Youtube破解资源君) 4, server: 142.202.48.43, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: Relay_🇺🇸US-🇺🇸US_2000, server: usa-dallas.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}, udp: true}
+  - {name: 美国(欢迎订阅Youtube破解资源君) 5, server: 45.35.84.162, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}, udp: true}
+  - {name: ��������_FR_(欢迎订阅youtube：钱科技)1213_51, server: 62.210.209.50, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君), server: 23.82.136.151, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-miami.lvuft.com}, udp: true}
+  - {name: 美国(欢迎订阅Youtube破解资源君) 6, server: usa-dallas.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}, udp: true}
   - {name: (欢迎订阅youtube：钱科技)1212_3, server: 172.99.190.87, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US_1597, server: 38.143.66.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: (欢迎订阅youtube：钱科技)1212_9, server: 172.99.190.87, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: ��������_US_(欢迎订阅youtube：钱科技)1213_58, server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -104,22 +108,23 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -130,65 +135,68 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -204,22 +212,23 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Relay_🇨🇳CN-🇹🇼TW_371
+      - Relay_🇮🇩ID-🇮🇩ID_598
+      - PH_820
       - 美国(欢迎订阅Youtube破解资源君)
       - (欢迎订阅youtube：钱科技)1212_23
-      - 美国(欢迎订阅Youtube破解资源君) 2
-      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
-      - PH_820
-      - Relay_🇺🇸US-🇺🇸US_2000
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
-      - US_1597
-      - ��������_US_(欢迎订阅youtube：钱科技)1213_66
-      - (欢迎订阅youtube：钱科技)1212_9
       - ��������_US_(欢迎订阅youtube：钱科技)1213_62
-      - Relay_🇮🇩ID-🇮🇩ID_598
-      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 2
       - 美国(欢迎订阅Youtube破解资源君) 3
+      - 美国(欢迎订阅Youtube破解资源君) 4
+      - Relay_🇺🇸US-🇺🇸US_2000
+      - 美国(欢迎订阅Youtube破解资源君) 5
+      - ��������_FR_(欢迎订阅youtube：钱科技)1213_51
+      - 欧洲(欢迎订阅Youtube破解资源君)
+      - 美国(欢迎订阅Youtube破解资源君) 6
       - (欢迎订阅youtube：钱科技)1212_3
+      - US_1597
+      - (欢迎订阅youtube：钱科技)1212_9
+      - ��������_US_(欢迎订阅youtube：钱科技)1213_58
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
