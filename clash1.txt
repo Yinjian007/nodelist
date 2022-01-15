@@ -33,8 +33,6 @@ proxies:
   - {name: "[SS] 🇫🇷 FR_452", server: 62.210.209.50, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
   - {name: "[SS] 🇫🇷 FR_444", server: 62.210.209.50, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: "[SS] 🇩🇪 DE_366", server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: "[VMess] 🇨🇳 CN_330", server: 203.189.208.74, port: 48776, type: vmess, uuid: d40c20e7-a5c3-4dcf-93c3-b2d7efb1159f, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "[VMess] 🇨🇳 CN_328", server: 42.193.48.64, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: "[SS] BG_169", server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
   - {name: "[VMess] 🇺🇲 Relay_🇺🇸US-🇺🇸US_2027", server: amu1ahfi.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: amu1ahfi.com}, udp: true}
   - {name: "[VMess] 🇺🇲 Relay_🇺🇸US-🇺🇸US_2020", server: 23.82.136.151, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: usa-miami.lvuft.com}, udp: true}
